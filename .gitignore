@@ -1,5 +1,8 @@
 venv/
 .env
+*.csv
+*.parquet
+*.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
