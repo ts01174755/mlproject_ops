@@ -33,7 +33,6 @@ sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.7
 sphinxcontrib-serializinghtml==1.1.10
 # Editable Git install with no remote (src==0.1.0)
--e d:\development\kaggle_home_credit
 sympy==1.12
 torch==2.2.0+cu121
 torchaudio==2.2.0+cu121
